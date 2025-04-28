@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @PetitJump
+- 🧳I'm learning in school !
