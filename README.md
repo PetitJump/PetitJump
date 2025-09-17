@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub!
 
 ## About Me
-- 🎓 High school student (senior year), majoring in **Mathematics** and **Computer Science (NSI)**  
+- 🎓 French high school student (senior year), majoring in **Mathematics** and **Computer Science (NSI)**  
 - 💻 I started coding this year, and it quickly became a **true passion**  
 - 🚀 I love experimenting, learning, and building projects  
 
