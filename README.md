@@ -22,7 +22,7 @@
 
 ## 💡 Projects & Experiments
 ✨ Personal and school programming projects  
-✨ Fun coding challenges in JS, SQL, and PECO8  
+✨ Fun coding challenges
 
 ---
 
