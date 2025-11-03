@@ -44,8 +44,8 @@
 
 ### 📈 GitHub Stats
 
-![PetitJump's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PetitJump&show_icons=true&theme=onedark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetitJump&layout=compact&theme=onedark&hide_border=true)
+![PetitJump's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PetitJump&show_icons=true&theme=vue-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetitJump&layout=compact&theme=vue-dark&hide_border=true)
 
 ---
 
