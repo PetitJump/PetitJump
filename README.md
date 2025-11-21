@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Welcome to my GitHub — I'm **PetitJump** 👋
-🎓 French student passionate about **Mathematics**, **Computer Science**, and **creative problem-solving**.  
+# 👽 Welcome to my GitHub — I'm **PetitJump** 👽
+🎓 French student passionate about **Mathematics**, **Computer Science**, and **creative problem-solving**. 
 💻 Young developer who started coding in 2024 and never stopped !
 
 ---
